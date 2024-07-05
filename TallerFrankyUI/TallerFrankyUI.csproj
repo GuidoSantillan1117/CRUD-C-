@@ -97,5 +97,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Barco\Barco_tripulacion.csproj">
+      <Project>{94ee6171-37f7-4c18-af4d-a0d022c179e9}</Project>
+      <Name>Barco_tripulacion</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -12,11 +12,11 @@ namespace TallerFrankyUi
 {
     public partial class FrmPrincipal : Form
     {
-        
         public FrmPrincipal()
         {
             InitializeComponent();
-            //TODO: Instanciar el taller
+       
+
         }
 
         private void btnCargarBarco_Click(object sender, EventArgs e)
