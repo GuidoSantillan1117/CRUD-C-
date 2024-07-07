@@ -1,0 +1,32 @@
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\bin\Debug\net8.0\Serializacion.deps.json
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\bin\Debug\net8.0\Serializacion.dll
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\bin\Debug\net8.0\Serializacion.pdb
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\bin\Debug\net8.0\Barcosproyecto.dll
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\bin\Debug\net8.0\Barcosproyecto.pdb
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.csproj.AssemblyReference.cache
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.AssemblyInfoInputs.cache
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.AssemblyInfo.cs
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.sourcelink.json
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\Serializ.38EF218E.Up2Date
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.dll
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\refint\Serializacion.dll
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.pdb
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Serializacion\obj\Debug\net8.0\ref\Serializacion.dll
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\bin\Debug\net8.0\Serializacion.deps.json
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\bin\Debug\net8.0\Serializacion.dll
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\bin\Debug\net8.0\Serializacion.pdb
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\bin\Debug\net8.0\Barcosproyecto.dll
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\bin\Debug\net8.0\Barcosproyecto.pdb
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.csproj.AssemblyReference.cache
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.AssemblyInfo.cs
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.sourcelink.json
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\Serializ.38EF218E.Up2Date
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.dll
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\refint\Serializacion.dll
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\Serializacion.pdb
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Serializacion\obj\Debug\net8.0\ref\Serializacion.dll

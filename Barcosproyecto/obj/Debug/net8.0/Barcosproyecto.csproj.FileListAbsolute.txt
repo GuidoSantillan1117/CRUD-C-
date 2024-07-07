@@ -1,0 +1,26 @@
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\bin\Debug\net8.0\Barcosproyecto.deps.json
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\bin\Debug\net8.0\Barcosproyecto.dll
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\bin\Debug\net8.0\Barcosproyecto.pdb
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.csproj.AssemblyReference.cache
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.AssemblyInfoInputs.cache
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.AssemblyInfo.cs
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.csproj.CoreCompileInputs.cache
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.sourcelink.json
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.dll
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\refint\Barcosproyecto.dll
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.pdb
+C:\Users\guido\source\repos\SPL2_1C20244\SPLII\Barcosproyecto\obj\Debug\net8.0\ref\Barcosproyecto.dll
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\bin\Debug\net8.0\Barcosproyecto.deps.json
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\bin\Debug\net8.0\Barcosproyecto.dll
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\bin\Debug\net8.0\Barcosproyecto.pdb
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.csproj.AssemblyReference.cache
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.AssemblyInfoInputs.cache
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.AssemblyInfo.cs
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.sourcelink.json
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.dll
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\refint\Barcosproyecto.dll
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\Barcosproyecto.pdb
+C:\Users\guido\OneDrive\Escritorio\Segundo Parcial LABO\SP_LABO_CRUD\SPLII\Barcosproyecto\obj\Debug\net8.0\ref\Barcosproyecto.dll
